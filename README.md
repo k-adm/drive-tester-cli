@@ -43,7 +43,7 @@ See [requirements.txt](requirements.txt) for required Python packages:
 ## Usage
 
 ```powershell
-python list_drives.py
+python drive-tester-cli.py
 ```
 
 1. **List drives**: Select option `1` to view all physical disks.
