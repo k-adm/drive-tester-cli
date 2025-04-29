@@ -29,7 +29,7 @@ See [requirements.txt](requirements.txt) for required Python packages:
 
 1. Clone the repository:
    ```powershell
-   git clone https://github.com/your-username/windows-drive-tester.git
+   git clone https://github.com/k-adm/drive-tester-cli.git
    cd windows-drive-tester
    ```
 
